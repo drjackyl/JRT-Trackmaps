@@ -1,6 +1,6 @@
 # JRT-Trackmaps
 
-Trackmap data for Joel Real Timing (JRT) Overlays
+Trackmap data for Joel Real Timing (JRT) Overlays v0.1.0
 
 ## But, why!?
 

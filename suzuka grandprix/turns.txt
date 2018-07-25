@@ -1,0 +1,1 @@
+# Turn;lapdistpct;side (1 for right and -1 for left);Note

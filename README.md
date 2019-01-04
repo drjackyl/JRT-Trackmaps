@@ -1,6 +1,6 @@
 # JRT-Trackmaps
 
-Trackmap data for Joel Real Timing (JRT) Overlays v0.1.0
+Trackmap data for Joel Real Timing (JRT) Overlays v0.2.0
 
 ## But, why!?
 
@@ -19,7 +19,7 @@ The contents of the repository are the contents of the folder `.\Documents\Joel 
 * Coords for the trackmap.
 * Rotation of the 2d trackmap. I try to use common representations here.
 * Camera angle of the 3d trackmap.
-* Turn names.
+* Turn names (partly)
 
 ## Track missing?
 

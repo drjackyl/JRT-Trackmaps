@@ -1,0 +1,9 @@
+1;0.072;-1;Paddock Hill Bend;
+2;0.159;-1;Druids;
+3;0.223;-1;Graham Hill Bend;
+4;0.326;-1;Surtees;
+5;0.524;-1;Hawthorns;
+6;0.609;1;Westfield;
+7;0.708;-1;Sheene Curve;
+8;0.770;1;Stirlings;
+9;0.896;-1;Clark Curve;

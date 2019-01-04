@@ -1,0 +1,14 @@
+1;0.045;-1;Chevrolet;
+2;0.079;1;;
+3;0.273;-1;Cadillac;
+4;0.325;-1;Lear;
+5;0.381;-1;Firestone;
+6;0.430;-1;Pure Michigan;
+7;0.633;-1;Corvette;
+8;0.673;1;Autotrader;
+9;0.708;1;Autotrader;
+10;0.735;1;;
+11;0.755;-1;Continental Tire;
+12;0.840;-1;;
+13;0.871;-1;Motul;
+14;0.962;-1;;

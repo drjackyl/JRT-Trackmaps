@@ -1,0 +1,7 @@
+camera_position_x = -133.84526033810695
+camera_position_y = 663.5606267164885
+camera_position_z = -287.4988692932329
+camera_rotation_x = -1.98886493079345
+camera_rotation_y = -0.1819206423755053
+camera_rotation_z = -2.754861992400945
+camera_mult = 0.2952016193851756
